@@ -13,7 +13,7 @@ body {
 @media (min-width: 992px) {
   body {
     padding-top: 0;
-    padding-left: 17rem;
+    padding-left: 15rem;
   }
 }
 
@@ -101,7 +101,7 @@ p.lead {
     left: 0;
     display: flex;
     flex-direction: column;
-    width: 17rem;
+    width: 15rem;
     height: 100vh;
   }
   #sideNav .navbar-brand {
@@ -160,7 +160,11 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #2a6278 !important;
+  background-color: #227091 !important;
+}
+
+.container-fluid {
+  background-color: black !important;
 }
 
 .text-primary {
